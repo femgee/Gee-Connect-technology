@@ -1,4 +1,4 @@
-# HRJ Consulting Website
+# Gee Connect Website
 
 A modern, responsive business consulting website built with React, TypeScript, Tailwind CSS, and Supabase.
 
